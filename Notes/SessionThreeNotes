@@ -1,0 +1,137 @@
+
+Procedural Oriented Programming vs. Object Oriented Programming:
+
+C: Procedural Oriented Programming
+
+main() {
+	calculate();
+}
+
+calculate() {
+	factorial();
+}
+
+factorial() {
+
+}
+
+C++/C#: Object Oriented Programming
+
+A class is encapsulated by default.
+
+class MyClass {
+
+}
+
+-----------------------------------------------------------------
+
+Object Oriented Programming using C#:
+
+Key Feature: Key Feature of OOPS is Data Hidding.
+
+Components:
+
+	1. Classes
+	2. Objects
+	3. Encapsulation
+	4. Abstraction
+	5. Inheritance
+	6. Polymorphism
+
+-------------------------------------------------------------
+
+C# is 100% OOPS based programming langugage but its not pure.
+
+Class:
+
+	- A blueprint or a user-defined data type.
+	- A collection of data members and member functions.
+	- Data Members means variables declared at class level.
+	- Member functions means functions declared at class level.
+	- A class is always encapsulated by default in C#.
+
+Object: 
+
+	- A variable of user-defined data type i.e. Class.
+	- A instance or representator of a class.
+	- Helps in accessing the instance members of a particular class.
+	- When we create an object of a class, memory gets allocated to data members.
+	
+Note:
+
+	- Each and Every class in C# is by default inherit to Object class.
+	- When we create an object of a class, the default constructor of Object class gets called implicitly to assign the default values.
+	- If we have any constructor in our own class then the object class constructor doesn't invoke implicitly.
+	
+Constructor:
+
+	- A special method that helps in intializing the data members of a class.
+	- They have same name as that of the class name.
+	- They don't have any return type.
+	- Constructors are called implicitly by compiler at the time of creating object.
+	- Types of Constructor:
+		1. Default Constructor(Non-Parameterized Constructor)
+		2. Parameterized Constructor
+		3. Copy Constructor
+		4. Static Constructor
+	
+-----------------------------------------------------------------	
+	
+Access Modifiers:
+
+	- Private: 
+		All members of class are private by default.
+		Private Members are accessible withing the class only.
+		
+	- Public
+		Public Members are accessible within the class, outside the class as well from outside the namespace.
+		
+	- Protected
+	- Internal
+	- Protected Internal
+	
+Primitive Data Types:
+
+int, short, byte, long, float, double, boolean
+
+Non-Primitive Data Types:
+
+Array, String, Object
+
+-----------------------------------------------------------------
+
+Properties in C#:
+
+	- Helps in accessing private members of a class from outside the block.
+	- Helps in encapsulate and protect the data members.
+	- Created within the class.
+	- It is not used to store data, it act as an interface to transer the data.
+	- Properties are created with the help of accessors i.e.
+		- Get Accessor
+		- Set Accessor
+		
+Different Types:
+
+	- Read-Only Property
+	- Write-Only Property
+	- Read-Write Property
+	- Auto Implemented Property
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

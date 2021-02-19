@@ -1,0 +1,107 @@
+
+a. Initialize Local GIT Repository:
+
+	git init
+	
+b. To check Status of tracked/Untracked File/Folder
+
+	git status
+	
+c. To add files/folders into tracked and sent for commit
+
+	git add .
+	
+d. To check Status Again after tracking
+
+	git status
+	
+e. To create a commit
+
+	git commit -m "First Commit"
+	
+f. To add Remote/Server Repository:
+
+	git remote add origin https://github.com/mgunwani/DemoProjects.git
+	
+d. To push pending commits to Server/Master into master branches:
+
+	git push -u origin master
+	
+-----------------------------------------------------------------------
+
+	git config --global user.email "gunwani.madhu@gmail.com"
+	git config --global user.name "mgunwani"
+
+-----------------------------------------------------------------------
+
+a. To check branches:
+
+	git branch
+	
+b. To Create new branch:
+
+	git branch MyNewBranch
+	
+c. To checkout to the new branch:
+
+	git checkout MyNewBranch
+
+d. Add Files/Folder to MyNewBranch and Commit/Push
+
+	git status
+	
+	git add .
+	 
+	git status
+	
+	git commit -m "First Commit to MNB"
+	
+	git push -u origin MyNewBranch
+	
+------------------------------------------------------------------
+
+Merge MyNewBranch to Master Branch:
+
+a. To checkout to master branch
+
+	git checkout master
+	
+b. Verfiy that we checked out to master pranch:	
+	
+	git branch
+
+c. Merge MyNewBranch to master branch:
+
+	git merge MyNewBranch
+	
+d. Push certain changes to master branch:
+
+	git push -u origin master
+
+Note, the changes are now merge.
+
+Message: This branch is even with master.
+
+-------------------------------------------------------------------
+
+-- To delete branch from Local Repository:
+
+	git branch -d MyNewBranch
+
+-- To delete branch from Remote Repository:
+
+	git push origin --delete MyNewBranch
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CCDC4BB9-147C-4DE3-8732-5C99C7827549}</ProjectGuid>
+    <ProjectGuid>{C53D05DD-5616-49F7-B49E-8BE29FFC7564}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ObjectOrientedProgrammingFundamentals</RootNamespace>
-    <AssemblyName>ObjectOrientedProgrammingFundamentals</AssemblyName>
+    <RootNamespace>OverloadingvsOverriddingDemonstrations</RootNamespace>
+    <AssemblyName>OverloadingvsOverriddingDemonstrations</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,20 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConstructorDemo.cs" />
-    <Compile Include="InheritanceDemo.cs" />
-    <Compile Include="OOPSConceptsDemo.cs" />
-    <Compile Include="PropertiesDemo.cs" />
+    <Compile Include="AbstractClassesExample.cs" />
+    <Compile Include="InterfaceExample.cs" />
+    <Compile Include="OverloadingExample.cs" />
+    <Compile Include="OverridingExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\StudentProjectLibrary\StudentProjectLibrary.csproj">
-      <Project>{4d568502-c6df-4c77-b60e-f421b3f60f08}</Project>
-      <Name>StudentProjectLibrary</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,6 @@
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionThree\StudentProjectLibrary\bin\Debug\StudentProjectLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionThree\StudentProjectLibrary\bin\Debug\StudentProjectLibrary.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionThree\StudentProjectLibrary\obj\Debug\StudentProjectLibrary.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionThree\StudentProjectLibrary\obj\Debug\StudentProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionThree\StudentProjectLibrary\obj\Debug\StudentProjectLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionThree\StudentProjectLibrary\obj\Debug\StudentProjectLibrary.pdb

@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CCDC4BB9-147C-4DE3-8732-5C99C7827549}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>ObjectOrientedProgrammingFundamentals</RootNamespace>
-    <AssemblyName>ObjectOrientedProgrammingFundamentals</AssemblyName>
+    <ProjectGuid>{4D568502-C6DF-4C77-B60E-F421B3F60F08}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StudentProjectLibrary</RootNamespace>
+    <AssemblyName>StudentProjectLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,20 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConstructorDemo.cs" />
-    <Compile Include="InheritanceDemo.cs" />
-    <Compile Include="OOPSConceptsDemo.cs" />
-    <Compile Include="PropertiesDemo.cs" />
+    <Compile Include="Marks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\StudentProjectLibrary\StudentProjectLibrary.csproj">
-      <Project>{4d568502-c6df-4c77-b60e-f421b3f60f08}</Project>
-      <Name>StudentProjectLibrary</Name>
-    </ProjectReference>
+    <Compile Include="Result.cs" />
+    <Compile Include="Sports.cs" />
+    <Compile Include="Student.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

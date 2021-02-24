@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedProgrammingFundamentals", "ObjectOrientedProgrammingFundamentals\ObjectOrientedProgrammingFundamentals.csproj", "{CCDC4BB9-147C-4DE3-8732-5C99C7827549}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentProjectLibrary", "StudentProjectLibrary\StudentProjectLibrary.csproj", "{4D568502-C6DF-4C77-B60E-F421B3F60F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CCDC4BB9-147C-4DE3-8732-5C99C7827549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCDC4BB9-147C-4DE3-8732-5C99C7827549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCDC4BB9-147C-4DE3-8732-5C99C7827549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D568502-C6DF-4C77-B60E-F421B3F60F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D568502-C6DF-4C77-B60E-F421B3F60F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D568502-C6DF-4C77-B60E-F421B3F60F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D568502-C6DF-4C77-B60E-F421B3F60F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,58 @@
+
+Compononents of OOPS:
+
+	Classes
+	Objects
+	Encapsulation
+	Abstraction
+	Inheritance
+	Polymorphism
+	
+------------------------------------------
+
+Access Specifiers in C#:
+
+	Private: Private Members are accessible in itw own class only.
+	Public: Public Members accessible from anywhere.
+	Protected: Protected Members are accessible in its own class and child class.
+	Internal: Internal members are accessible within the namespace.
+	
+	Note:
+		All members of a class by default private or encapuslated.
+		By default, a class has internal access modifier.
+		
+------------------------------------------
+
+Polymorphism:
+
+	Poly means Many and Morpho Forms.
+	
+	"One Interface Many Function."
+	
+	Non-Technical Example: Human Being
+	Technical Example: Visual Studio 
+	
+	Polymorphism can be achieve by Overloading and OVerridding.
+	
+	Overloading:
+	
+		A mechanism to have more than on method with same name but with different signatue within a class.
+		
+		A method signature will be differentiated by:
+		
+			- Number of Parameters
+			- Type of Parameters
+			- Sequence of Parameters
+			
+	Overridding:
+	
+		Overridding means redefine the method in child classes.
+		
+		Overridden method should have:
+		
+			Same Name
+			Same Parameters
+			Same Return Type
+			Same or Higher Access Modifier
+			
+-----------------------------------------------------

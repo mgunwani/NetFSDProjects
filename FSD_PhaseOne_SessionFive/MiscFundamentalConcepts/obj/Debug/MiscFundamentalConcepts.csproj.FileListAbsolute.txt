@@ -1,0 +1,7 @@
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\MiscFundamentalConcepts\bin\Debug\MiscFundamentalConcepts.exe.config
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\MiscFundamentalConcepts\bin\Debug\MiscFundamentalConcepts.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\MiscFundamentalConcepts\bin\Debug\MiscFundamentalConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\MiscFundamentalConcepts\obj\Debug\MiscFundamentalConcepts.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\MiscFundamentalConcepts\obj\Debug\MiscFundamentalConcepts.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\MiscFundamentalConcepts\obj\Debug\MiscFundamentalConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\MiscFundamentalConcepts\obj\Debug\MiscFundamentalConcepts.csprojAssemblyReference.cache

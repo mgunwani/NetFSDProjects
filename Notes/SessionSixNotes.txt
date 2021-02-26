@@ -1,0 +1,134 @@
+
+Exception Handling:
+
+	Types of Errors in programming:
+	
+		1. Compile Time Errors
+		
+			Syntactical Errors
+				ommit semicolon at the end of the statement.
+				Miss-spelled Keywords and non-closing braces.
+				Incorrect Syntax.
+				
+				
+			Sementic Errors (Expressional Errors)
+				c = a + b => a + b = c;
+				c += b;	=? c=+ b;
+		
+		2. Run Time Errors
+		
+			- Occurs at execution time.
+			- They are also known as Exceptions.
+			- To handle these Exceptions, we use Exception Handling.
+			- When they occur in program, the program terminates abnormally on the line and rest of the entire code gets halted.
+		
+		3. Logical Errors
+
+
+-------------------------------------------------------------
+
+Exception Handling Mechanism:
+
+	To handle abnormal termination of program or runtime error.
+	
+	1. Try Block
+	
+		We write a set of statement in try block, where chances of getting exceptions are high.
+	
+	2. Catch Block: 
+	
+		If an exception occurs, the control goes to catch block to handle exception and give appropriate exception message to end user.
+
+	3. finally Block:
+	
+		finally is a block that always be executed whether exception occurs or not.
+		
+-----------------------------------------------------
+
+Partial Class:
+
+	Allows to define One class in multiple files. 
+	We can physically split the content of the class into different files.
+	To make any class partial, need to use partial keyword.
+
+	Rules to follow when working with partial classes:
+	
+	Missing partial modifier, make another partial partial declaration as exists.
+	All partial class or files must have same access modifier.
+	Partial declaration must not specify different base classes at a given part.
+
+	public class Employee { }
+	
+	public class Customer { }
+	
+	public partial class PartialClass: Employee { }
+	
+	public partial class PartialClass: Customer { }
+	
+	public partial class PartialClass: Employee, Customer { }	// Error
+
+-----------------------------------------------------
+
+Sealed Class:
+
+	Sealed Class is completely opposite to Abstract class.
+	A sealed class cannot be inherited by other classes.
+	
+	sealed class ClassOne { }
+	class ClassTwo: ClassOne { }	// Error
+
+	Points to Remember:
+		1. Sealed Class is completely opposite to Abstract class.
+		2. A sealed class cannot be inherited by other classes.
+		3. Sealed class cannot contain abstract methods.
+		4. Sealed class always should be the bottom class.
+		5. Sealed class is used to avoid inheritance.
+		6. Sealed Keyword can also used with class, method and properties.
+		
+--------
+
+	class ClassOne 
+	{
+		public virtual void display() { }
+	}
+	
+	class ClassTwo: ClassOne 
+	{
+		public sealed override void display() { }
+	}
+
+	sealed class ClassThree: ClassTwo 
+	{
+		public override void display() { }	// Error
+	}
+
+-----------------------------------------------------------
+
+Delegates: Function Pointers in C#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

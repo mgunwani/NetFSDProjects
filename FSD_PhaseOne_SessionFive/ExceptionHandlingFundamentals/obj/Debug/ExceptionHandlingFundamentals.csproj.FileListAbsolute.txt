@@ -1,0 +1,7 @@
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\ExceptionHandlingFundamentals\bin\Debug\ExceptionHandlingFundamentals.exe.config
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\ExceptionHandlingFundamentals\bin\Debug\ExceptionHandlingFundamentals.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\ExceptionHandlingFundamentals\bin\Debug\ExceptionHandlingFundamentals.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\ExceptionHandlingFundamentals\obj\Debug\ExceptionHandlingFundamentals.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\ExceptionHandlingFundamentals\obj\Debug\ExceptionHandlingFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\ExceptionHandlingFundamentals\obj\Debug\ExceptionHandlingFundamentals.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionFive\ExceptionHandlingFundamentals\obj\Debug\ExceptionHandlingFundamentals.pdb

@@ -1,0 +1,7 @@
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSeachingAlgorithms\bin\Debug\DataStructureSeachingAlgorithms.exe.config
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSeachingAlgorithms\bin\Debug\DataStructureSeachingAlgorithms.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSeachingAlgorithms\bin\Debug\DataStructureSeachingAlgorithms.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSeachingAlgorithms\obj\Debug\DataStructureSeachingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSeachingAlgorithms\obj\Debug\DataStructureSeachingAlgorithms.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSeachingAlgorithms\obj\Debug\DataStructureSeachingAlgorithms.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSeachingAlgorithms\obj\Debug\DataStructureSeachingAlgorithms.csprojAssemblyReference.cache

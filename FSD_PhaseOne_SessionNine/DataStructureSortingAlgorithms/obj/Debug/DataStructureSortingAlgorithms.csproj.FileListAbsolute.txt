@@ -1,0 +1,7 @@
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSortingAlgorithms\bin\Debug\DataStructureSortingAlgorithms.exe.config
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSortingAlgorithms\bin\Debug\DataStructureSortingAlgorithms.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSortingAlgorithms\bin\Debug\DataStructureSortingAlgorithms.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSortingAlgorithms\obj\Debug\DataStructureSortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSortingAlgorithms\obj\Debug\DataStructureSortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSortingAlgorithms\obj\Debug\DataStructureSortingAlgorithms.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionEight\DataStructureSortingAlgorithms\obj\Debug\DataStructureSortingAlgorithms.pdb

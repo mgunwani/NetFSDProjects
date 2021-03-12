@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureFundamentals", "DataStructureFundamentals\DataStructureFundamentals.csproj", "{A99D5D31-2B23-4487-9F62-C4D81526C041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureSeachingAlgorithms", "DataStructureSeachingAlgorithms\DataStructureSeachingAlgorithms.csproj", "{4E518F14-52BA-4FA7-A2EE-2A14AD4FE79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureSortingAlgorithms", "DataStructureSortingAlgorithms\DataStructureSortingAlgorithms.csproj", "{8B4F001B-69BF-49FF-829F-BA8A388A1399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99D5D31-2B23-4487-9F62-C4D81526C041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99D5D31-2B23-4487-9F62-C4D81526C041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99D5D31-2B23-4487-9F62-C4D81526C041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99D5D31-2B23-4487-9F62-C4D81526C041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E518F14-52BA-4FA7-A2EE-2A14AD4FE79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E518F14-52BA-4FA7-A2EE-2A14AD4FE79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E518F14-52BA-4FA7-A2EE-2A14AD4FE79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E518F14-52BA-4FA7-A2EE-2A14AD4FE79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4F001B-69BF-49FF-829F-BA8A388A1399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4F001B-69BF-49FF-829F-BA8A388A1399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4F001B-69BF-49FF-829F-BA8A388A1399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4F001B-69BF-49FF-829F-BA8A388A1399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F841843A-E426-4859-A65F-FF017B380A27}
+	EndGlobalSection
+EndGlobal

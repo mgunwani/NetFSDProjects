@@ -1,0 +1,7 @@
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionTen\DesignPatternsDemonstrations\bin\Debug\DesignPatternsDemonstrations.exe.config
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionTen\DesignPatternsDemonstrations\bin\Debug\DesignPatternsDemonstrations.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionTen\DesignPatternsDemonstrations\bin\Debug\DesignPatternsDemonstrations.pdb
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionTen\DesignPatternsDemonstrations\obj\Debug\DesignPatternsDemonstrations.csprojAssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionTen\DesignPatternsDemonstrations\obj\Debug\DesignPatternsDemonstrations.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionTen\DesignPatternsDemonstrations\obj\Debug\DesignPatternsDemonstrations.exe
+C:\Users\BhawnaGunwani\source\repos\FSD_PhaseOne_SessionTen\DesignPatternsDemonstrations\obj\Debug\DesignPatternsDemonstrations.pdb
